@@ -1,0 +1,1 @@
+This repo is just for my class on getting labview industry certified. If you see errors, you are welcome to make changes, but please do not fork it only for the purpose of taking the class yourself, becuase then you will not learn the content. 
