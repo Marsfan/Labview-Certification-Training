@@ -1,1 +1,1 @@
-This repo is just for my CLAD (Certified LABView Associate Developer) class. If you see errors, you are welcome to make changes, but please do not fork it only for the purpose of taking the class yourself, becuase then you will not learn the content. 
+This repo is just for my CLAD (Certified LabVIEW Associate Developer) class. If you see errors, you are welcome to make changes, but please do not fork it only for the purpose of taking the class yourself, becuase then you will not learn the content. 
